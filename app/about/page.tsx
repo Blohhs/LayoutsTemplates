@@ -1,8 +1,8 @@
 export default function AboutPage() {
   return (
-    <main>
+    <div>
       <h1>О нас</h1>
-      <p>Мы изучаем Next.js.</p>
-    </main>
+      <p>Мы изучаем маршрутизацию в Next.js.</p>
+    </div>
   );
 }
